@@ -10,6 +10,7 @@ if greeting.lower() == "hello":
 else:
     print("You could at least say HELLO!")
 
+# Can't write a funny that fast
 ing_check = input("Just write a word with \"ing\" at the end >  ")
 
 if ing_check[-3:].lower() == "ing":
